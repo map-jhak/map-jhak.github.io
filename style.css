@@ -49,3 +49,11 @@ p {
 .logo-image {
     padding: 1rem;
 }
+
+ul {
+    border: 1px solid #616668;
+    background-color: #4b5052;
+    border-radius: 0.2rem;
+    padding: 1rem;
+    padding-left: 2rem;
+}
